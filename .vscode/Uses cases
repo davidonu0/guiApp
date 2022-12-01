@@ -1,0 +1,10 @@
+Use case defined
+
+The actor - Person
+The goal - Person view query report on requirements for the organisation
+The system- GUI Application
+Person loads GUI Application
+Person sees buttons with different queries.
+Person clicks a query button.
+Person views intended query report
+Person can clear us in clear button and select another query.

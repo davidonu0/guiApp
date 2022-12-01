@@ -1,0 +1,9 @@
+Tasks defined as user stories
+As a product operator I want to view data on city so that I can see population from high to low
+Task-
+Create database
+Create a gui system
+Create a swing button
+Create a jtable
+Create Jdbc connection
+Connect and upload data from database to table
